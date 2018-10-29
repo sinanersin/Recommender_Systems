@@ -36,4 +36,4 @@ def sample_recommendation(model, data, user_ids):
             print ('        %s' %x)
 
 
-sample_recommendation(model, data, [10,15,20])
+sample_recommendation(model, data, [10,15,25])
